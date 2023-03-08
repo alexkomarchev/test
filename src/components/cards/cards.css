@@ -1,0 +1,16 @@
+.cards{
+    border: 2px solid gray;
+    padding: 5px 20px;
+    width: 150px;
+    height: 330px;
+    border-radius: 15px;
+}
+.cards_title{
+    font-size: 15px;
+}
+
+
+.img{
+    width: 150px;
+    height: 200px;
+}
